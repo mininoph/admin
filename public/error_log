@@ -1,0 +1,1 @@
+[26-Feb-2023 22:09:01 UTC] PHP Fatal error:  Cannot use Auth as Auth because the name is already in use in /home/techufct/reward.technicalsumer.website/app/Http/Controllers/Api/UserController.php on line 12
